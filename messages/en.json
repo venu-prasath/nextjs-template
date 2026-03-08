@@ -1,0 +1,18 @@
+{
+  "common": {
+    "title": "Next.js Template",
+    "description": "A production-ready Next.js starter template"
+  },
+  "home": {
+    "heading": "Welcome to Your Next.js App",
+    "subtitle": "Get started by editing the page. This template includes everything you need to build a modern web application.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "toggleTheme": "Toggle theme"
+  }
+}

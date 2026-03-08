@@ -1,0 +1,18 @@
+{
+  "common": {
+    "title": "Plantilla Next.js",
+    "description": "Una plantilla inicial de Next.js lista para producción"
+  },
+  "home": {
+    "heading": "Bienvenido a Tu App Next.js",
+    "subtitle": "Comienza editando la página. Esta plantilla incluye todo lo que necesitas para construir una aplicación web moderna.",
+    "getStarted": "Comenzar",
+    "learnMore": "Más Información"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro",
+    "system": "Sistema",
+    "toggleTheme": "Cambiar tema"
+  }
+}
